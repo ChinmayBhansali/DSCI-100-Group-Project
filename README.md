@@ -1,3 +1,4 @@
 # DSCI-100-Group-Project
 
-Hello.
+Group Project Proposal
+
